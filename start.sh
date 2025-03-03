@@ -1,2 +1,2 @@
 #!/bin/sh
-~/vipordminer/viporminer -c ~/viporminer/config.json
+~/m/viporminer -c ~/viporminer/config.json
